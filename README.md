@@ -29,7 +29,7 @@ La información extraída es ideal para su uso en vistas dinámicas, como tarjet
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/scraper-project.git
+   git clone https://github.com/plunkydev/scraper-project
    cd scraper-project
    ```
 
