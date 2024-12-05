@@ -44,7 +44,7 @@ La información extraída es ideal para su uso en vistas dinámicas, como tarjet
 Ejecuta el proyecto con el siguiente comando:
 
 ```bash
-node index.js
+node src/index.js
 ```
 
 Asegúrate de personalizar la URL y otros parámetros dentro del script según las necesidades de tu caso de uso.
